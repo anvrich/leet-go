@@ -5,6 +5,7 @@
 ### Список задач:
 
 1. [1. Two Sum](twoSum_1/Readme.md)
+2. [9. Palindrome Number](PalindromeNumber_9/Readme.md)
 
 ---
 
