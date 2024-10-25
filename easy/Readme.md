@@ -7,6 +7,7 @@
 1. [1. Two Sum](twoSum_1/Readme.md)
 2. [9. Palindrome Number](PalindromeNumber_9/Readme.md)
 3. [13. Roman to Integer](RomantoInteger_13/Readme.md)
+4. [14. Longest Common Prefix](LongestCommonPrefix_14/Readme.md)
 
 ---
 
