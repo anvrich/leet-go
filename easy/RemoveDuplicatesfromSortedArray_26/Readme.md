@@ -39,7 +39,8 @@
     - Если текущий элемент отличается от предыдущего уникального элемента, добавляем его в `nums` на позицию `uniqueCount` и увеличиваем `uniqueCount`.
 4. В конце `uniqueCount` будет содержать количество уникальных элементов в массиве.
 
-### [Код:](./RemoveDuplicates.go)
+### [Код:](./removeDuplicatesfromSortedArray.go)
+
 ```go
 func RemoveDuplicates(nums []int) int {
     if len(nums) == 0 {
